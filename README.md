@@ -1,14 +1,14 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This a a Todo app that allows you to add things todo as a checklist.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+You can add due dates to your lists when you create them as well check off things you've already completed. You may also delete and things you have finished or added by accident.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+I refactored the code using OOP and implemented modules
 
 ## Deployment
 
