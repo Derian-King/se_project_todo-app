@@ -10,7 +10,7 @@ class Section {
       this._renderer(item);
     });
   }
-  addItems(element) {
+  addItem(element) {
     this._container.append(element);
   }
 }
